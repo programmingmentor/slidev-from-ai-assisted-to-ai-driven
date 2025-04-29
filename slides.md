@@ -5,9 +5,9 @@ theme: default
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Vibe Coding
+title: Сучасний стан AI в IT - від AI Assisted до AI Driven Development
 info: |
-  ## Виступ для SoftServe
+  ## Виступ для студентів
 
 # apply unocss classes to the current slide
 class: text-center
@@ -22,7 +22,7 @@ mdc: true
 overviewSnapshots: true
 ---
 
-# Vibe Coding
+# Сучасний стан AI в IT - від AI Assisted до AI Driven Development
 
 В'ячеслав Колдовський, SoftServe Academy
 
@@ -611,5 +611,5 @@ https://orm.drizzle.team/llms.txt
 </div>
 
 <div class="w-full flex justify-center">
-  <a href="https://programmingmentor.github.io/slidev-vibe-coding/">https://programmingmentor.github.io/slidev-vibe-coding/</a>
+  <a href="https://programmingmentor.github.io/slidev-from-ai-assisted-to-ai-driven/">https://programmingmentor.github.io/slidev-from-ai-assisted-to-ai-driven/</a>
 </div>
