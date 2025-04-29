@@ -598,7 +598,7 @@ https://orm.drizzle.team/llms.txt
 - Issues with security
 - Speed of development
 - Cost of usage
-- ...
+- etc. ...
 
 ---
 ## layout: end
